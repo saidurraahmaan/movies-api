@@ -1,4 +1,4 @@
-package com.saidurraahmaan.movies.model;
+package com.saidurraahmaan.movies.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
